@@ -1,1 +1,1 @@
-# P-ndulo-en-masa-con-resorte.
+# Pendulo-en-masa-con-resorte.
